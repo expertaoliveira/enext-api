@@ -1,4 +1,4 @@
-# enext
+# enext-api
 
 ## Project setup
 ```
