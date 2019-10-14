@@ -1,0 +1,1 @@
+Esta é a pasta onde as imagens de perfil são armazanadas.
